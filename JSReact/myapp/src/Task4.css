@@ -1,0 +1,14 @@
+#text{
+    font-size: 30px;
+    font-weight: 400;
+}
+button{
+    padding: 10px;
+    font-size: 32px;
+}
+.Open{
+    opacity: 0;
+}
+.Hide{
+    opacity: 1;
+}
