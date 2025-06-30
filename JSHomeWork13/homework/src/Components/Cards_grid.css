@@ -1,0 +1,19 @@
+.cards_grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  justify-content: center; 
+  gap: 20px;
+}
+
+.card{
+    padding: 10px;
+    margin: 10px;
+    width: 183px;
+}
+
+.card img {
+    display: block;
+    width: 183px;
+    height: 204px;
+    object-fit: cover;
+}
